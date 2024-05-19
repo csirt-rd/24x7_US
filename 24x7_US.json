@@ -8,7 +8,7 @@
         "24_7-ip-us_whitelist"
     ],
     "type": "acl",
-    "source": "https://github.com/csirt-rd/24x7_US/blob/main/24x7_US.json",
+    "source": "https://raw.githubusercontent.com/csirt-rd/24x7_US/main/24x7_US.json",
     "notes": "XX",
     "rule": {
         "sections": [
