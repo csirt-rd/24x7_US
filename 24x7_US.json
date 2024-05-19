@@ -8,8 +8,8 @@
         "24_7-ip-us_whitelist"
     ],
     "type": "acl",
-    "source": "https://storage.googleapis.com/rbz-auto-acl/ip-reputation/v2/rbz-iprs-high.json",
-    "notes": "This Tag rule includes a list of IP addresses that were classified with bad reputation by Reblaze with high statistical confidence.",
+    "source": "https://github.com/csirt-rd/24x7_US/blob/main/24x7_US.json",
+    "notes": "XX",
     "rule": {
         "sections": [
             {
